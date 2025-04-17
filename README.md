@@ -1,7 +1,7 @@
 # 🧨 POISON DDOS
 Advanced Python Botnet Framework 💀
 
-![Banner](https://github.com/H4S4NX509/SKULL-CRUSHER/blob/main/skull.png)
+![Banner](https://github.com/H4S4NX509/POISON-/blob/main/Screenshot_20250417-054334.png)
 
 ## Core Features
 - **Protocol Storm**  
