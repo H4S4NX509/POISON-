@@ -13,20 +13,20 @@ Advanced Python Botnet Framework 💀
 ## Installation (Kali/Termux)
 ```bash
  apt update && apt install python3 git -y
-git clone https://github.com/H4S4NX509/SKULL-CRUSHER.git
-cd SKULL-CRUSHER
+git clone https://github.com/H4S4NX509/POISON-.git
+cd POISON-
 pip install -r requirements.txt
-python3 skull.py
+python3 poison.py
 ```
 
 ## Windows 10/11 Setup
 1. Install [Python 3.12](https://www.python.org/ftp/python/3.12.0/python-3.12.0-amd64.exe)
 2. Run in CMD:
 ```cmd
-git clone https://github.com/H4S4NX509/SKULL-CRUSHER.git
-cd SKULL-CRUSHER
+git clone https://github.com/H4S4NX509/POISON-.git
+cd POISON-
 pip install -r requirements.txt
-python3 skull.py
+python3 poison.py
 ```
 
 ## Contact
